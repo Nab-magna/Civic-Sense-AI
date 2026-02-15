@@ -163,5 +163,6 @@ System must:
 - Civic education modules
 - Resolution tracking workflow
 - NGO/journalist integration
+- Integration with AWS infrastructure and products
 
 ---
